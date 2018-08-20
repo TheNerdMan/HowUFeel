@@ -1,0 +1,9 @@
+C:\Users\Alex\source\repos\HowUFeel\HowUFeel\bin\Debug\netstandard2.0\HowUFeel.deps.json
+C:\Users\Alex\source\repos\HowUFeel\HowUFeel\bin\Debug\netstandard2.0\HowUFeel.dll
+C:\Users\Alex\source\repos\HowUFeel\HowUFeel\bin\Debug\netstandard2.0\HowUFeel.pdb
+C:\Users\Alex\source\repos\HowUFeel\HowUFeel\obj\Debug\netstandard2.0\HowUFeel.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\HowUFeel\HowUFeel\obj\Debug\netstandard2.0\HowUFeel.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\HowUFeel\HowUFeel\obj\Debug\netstandard2.0\HowUFeel.AssemblyInfo.cs
+C:\Users\Alex\source\repos\HowUFeel\HowUFeel\obj\Debug\netstandard2.0\HowUFeel.dll
+C:\Users\Alex\source\repos\HowUFeel\HowUFeel\obj\Debug\netstandard2.0\HowUFeel.pdb
+C:\Users\Alex\source\repos\HowUFeel\HowUFeel\obj\Debug\netstandard2.0\HowUFeel.csprojAssemblyReference.cache
